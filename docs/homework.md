@@ -2,7 +2,7 @@
 
 ---
 # FINAL PROJECT
-NAME: **WRITE YOUR NAME HERE**
+NAME: Cristian Yesid Chitiva Vela
 
 ---
 **INSTRUCTIONS**:
